@@ -15,9 +15,9 @@
     
     Make sure you installed metamask or other wallet provider.
     
-    Switch the network to GoerliTestNet
+    Switch the network to Sepolia
     
-    Make sure to have some GoerliETH to test the app.
+    Make sure to have some Sepolia ETH to test the app.
 
 - Install required dependencies
 
