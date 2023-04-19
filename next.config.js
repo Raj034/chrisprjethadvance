@@ -3,7 +3,7 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   env: {
-    CONTRACT_ADDRESS:"0x3705218BC1Ee772B484a2a429EdeDFE29d9c7788",
+    CONTRACT_ADDRESS:"0xD1B2dd8AF6E311863f6dD423B470699f73c78713",
     ABI:[
       {
         "inputs": [
